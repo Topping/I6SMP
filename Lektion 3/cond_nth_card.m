@@ -1,3 +1,4 @@
+% based on the previous card values, input argumemt
 function Pr_xn=cond_nth_card(drawncards)
 % calculate the probability of the nth card
 % based on the previous card values, input argumemt
